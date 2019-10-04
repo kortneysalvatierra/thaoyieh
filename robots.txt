@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eibooxeca.godoy.net.br/sitemap.xml
